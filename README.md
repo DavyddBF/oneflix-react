@@ -13,3 +13,5 @@ No diretório do projeto, você pode executar:
 Abra [http://localhost:5173](http://localhost:5173) para ver o resultado no seu navegador.
 
 A página vai recarregar conforme as modificações.
+
+Quer ver como ficou? Acesse o site: [oneflix-davyddbf](https://oneflix-davyddbf.netlify.app/)
