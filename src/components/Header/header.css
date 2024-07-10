@@ -1,0 +1,39 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #0f77ff;
+    padding: 1.5rem;
+}
+
+.header h2 {
+    font-size: 2rem;
+    margin-left: 5rem;
+}
+
+.header__logo {
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.header__logo:hover {
+    color: #b3b3b3;
+}
+
+.header__favoritos {
+    color: #000;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: #fff;
+    padding: .7rem 1rem;
+    margin-right: 5rem;
+    border-radius: 5px;
+}
+
+.header__favoritos:hover {
+    color: #fff;
+    background-color: #b3b3b3;
+    text-decoration: underline;
+}
