@@ -11,6 +11,4 @@ function App(): JSX.Element {
   );
 }
 
-// Testando editar texto com Vim no celular...
-
 export default App;
